@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "My blog on GitHub"
+author: "Cau"
 date: 2024-10-16
 ---
 
