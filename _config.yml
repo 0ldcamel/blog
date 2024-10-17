@@ -2,5 +2,5 @@ theme: minima
 title: An 0ld Camel's Journey into Coding
 author: 0ld Camel
 description: Learning to code, one step at a time.
-baseurl: https://0ldcamel.github.io/blog/
-url: https://0ldcamel.github.io
+# baseurl: https://0ldcamel.github.io/blog/
+# url: https://0ldcamel.github.io
