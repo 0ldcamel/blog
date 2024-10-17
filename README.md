@@ -24,7 +24,7 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
+Your blog is now live and has been [deployed!](https://0ldcamel.github.io/blog/)
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
