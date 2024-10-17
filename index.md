@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog - index
+title: Home
 ---
 
-This is index
+This is Home
