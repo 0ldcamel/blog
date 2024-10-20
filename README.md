@@ -32,6 +32,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You selected a theme using the config file.
 - You learned about proper directory format and file naming conventions in Jekyll.
 - You created your first blog post with Jekyll!
+- https://shields.io/
 
 ### What's next?
 
