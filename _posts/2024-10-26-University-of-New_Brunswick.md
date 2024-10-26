@@ -20,7 +20,7 @@ date: 2024-10-26
     - Biomedical engineering
     - Mechatronics
     - Elective courses:
-      - ME 5143 Robot Kinetmatics
+      - ME 5143 Robot Kinematics
       - ME 5173 Advanced Kinematics of Manipulators
       - ME 5183 Industrial Robotics and Automation
       - ECE 4333 Robotics (4 ch)
