@@ -58,6 +58,6 @@ Total: 38,000
 
 [Create Account:](https://unbca.elluciancrmrecruit.com/Apply/Account/Create)
 
-University of New Brunswick Recruitement Representative in HCMC: Dai.Nguyen@unb.ca
+University of New Brunswick Recruitement Representative in HCMC: Dai.Nguyen@unb.ca [LinkedIn](https://www.linkedin.com/in/dai-nguyen-627a09b0)
 
-[test](https://0ldcamel.github.io/2024-10-26-University-of-New-Brunswick.html)
+[Fees and Dai.Nguyen](https://0ldcamel.github.io/2024-10-26-University-of-New-Brunswick.html)
