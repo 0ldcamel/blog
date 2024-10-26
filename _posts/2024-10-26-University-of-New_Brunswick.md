@@ -28,8 +28,8 @@ date: 2024-10-26
       - ME 5643 Automatic Controls II (4 ch)
 
 ### [Admission Requirements:](https://www.unb.ca/international/admission/program.html)
-Bachelor of Science in Engineering (BScEng): Chemical, Civil, Electrical, Mechanical
-- Course requirements:
+Bachelor of Science in Engineering (BScEng): Chemical, Civil, Electrical, Mechanical Course requirements:
+ - IELTS: 6.5 overall, with no band score below 6.0
  - Senior English Literature (70% or higher)
  - Senior Math, including Pre-Calculus (70% or higher)
  - Senior Chemistry (70% or higher)
