@@ -57,4 +57,5 @@ Total: 38,000
 - Winter term (January start) — apply before Oct. 1  
 
 [Create Account:](https://unbca.elluciancrmrecruit.com/Apply/Account/Create)
-[test](https://0ldcamel.github.io/blog/blob/main/_posts/2024-10-26-University-of-New-Brunswick.html)
+
+University of New Brunswick Recruitement Representative in HCMC: Dai.Nguyen@unb.ca
