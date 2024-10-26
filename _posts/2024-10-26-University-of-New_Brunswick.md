@@ -10,7 +10,20 @@ date: 2024-10-26
 - Computer Science
 - Engineering:
   - [Electrical](https://www.unb.ca/fredericton/engineering/depts/ece/undergrad.html)
-    - [Biomedical engineering](https://www.unb.ca/academics/calendar/undergraduate/current/frederictonprograms/bachelorofscienceinengineering/electricalengineering.html#biomedical) Haptic Robotics, Modern Control Systems and Applications
+    
+    - Biomedical Engineering Option in Electrical Engineering
+    - Computer Engineering Option in Electrical Engineering
+    - Control & Instrumentation (Robotics, Mechatronics)
+    - Power & Renewable Energy Systems (Electric, Machines, Power Devices)
+    - Signal Processing (Filtering, Sensors)
+    - Communications (Wireless, Networking)
   - [Mechanical:](https://www.unb.ca/fredericton/engineering/depts/mechanical/undergrad.html)
     - Biomedical engineering
-    - Mechatronics  
+    - Mechatronics
+    - Elective courses:
+      - ME 5143 Robot Kinetmatics
+      - ME 5173 Advanced Kinematics of Manipulators
+      - ME 5183 Industrial Robotics and Automation
+      - ECE 4333 Robotics (4 ch)
+      - ECE 4343 Haptic Robotics (4 ch)
+      - ME 5643 Automatic Controls II (4 ch)
