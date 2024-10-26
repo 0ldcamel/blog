@@ -37,6 +37,7 @@ Bachelor of Science in Engineering (BScEng): Chemical, Civil, Electrical, Mechan
  - 1 elective from group 1, 2 or 4 (60% or higher)  
 
 Minimum admission average: 75%  
+[Country specific - Vietnam: ](https://www.unb.ca//international/admission/countries.html) Senior Secondary School Graduation Diploma -"Bằng Tốt Nghiệp Trung Học Phổ Thông"
 
 **Group 1:** Senior Secondary Additional or Advanced Math, Biology, Chemistry, Computer / Information Technology,  Science, Physics, Sociology, Environmental Studies.  
 **Group 2:** Senior Secondary Accounting, Business Studies, Marketing.  
@@ -49,3 +50,10 @@ Group 3: Senior Secondary Communication, Art, Music, Drama.
 [Food:](https://www.unb.ca/fredericton/residence/fees/) 6,000 (7 day meal plan)   
 Books and Supplies: 1,000  
 Total: 38,000
+
+### [Applying as an international high school](https://www.unb.ca//international/apply/index.html)
+[Deadlines:](https://www.unb.ca/international/apply/deadlines.html)  
+- **Fall term (September start) — apply before June 1** 
+- Winter term (January start) — apply before Oct. 1  
+
+[Create Account:](https://unbca.elluciancrmrecruit.com/Apply/Account/Create)
