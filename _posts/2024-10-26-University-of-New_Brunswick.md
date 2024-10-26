@@ -27,3 +27,5 @@ date: 2024-10-26
       - ECE 4333 Robotics (4 ch)
       - ECE 4343 Haptic Robotics (4 ch)
       - ME 5643 Automatic Controls II (4 ch)
+
+![alt text]([/UoNB fee.png](https://github.com/0ldcamel/blog/blob/main/_posts/UoNB%20fee.png))
