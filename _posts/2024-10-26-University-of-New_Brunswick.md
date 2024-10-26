@@ -43,9 +43,9 @@ Minimum admission average: 75%
 Group 3: Senior Secondary Communication, Art, Music, Drama.  
 **Group 4:** Senior Secondary Computer Assisted Drafting (CAD), Electronics.
 
-### [Cost of attendance: per year](https://www.unb.ca/moneymatters/)  
+### [Cost of attendance: CAD per year](https://www.unb.ca/moneymatters/)  
 [Tuition and insurances:](https://shorturl.at/nHRIU)  24,900   
 [Housing:](https://www.unb.ca/fredericton/residence/fees/) 6,100 (Classic Residence)  
 [Food:](https://www.unb.ca/fredericton/residence/fees/) 6,000 (7 day meal plan)   
 Books and Supplies: 1,000  
-Total: 37,000
+Total: 38,000
