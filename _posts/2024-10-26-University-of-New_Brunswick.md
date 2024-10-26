@@ -57,3 +57,4 @@ Total: 38,000
 - Winter term (January start) — apply before Oct. 1  
 
 [Create Account:](https://unbca.elluciancrmrecruit.com/Apply/Account/Create)
+[test](https://github.com/0ldcamel/blog/blob/main/_posts/2024-10-26-University-of-New-Brunswick.html)
