@@ -11,3 +11,4 @@ date: 2024-10-27
 - Université de Moncton: trường này nói tiếng Pháp   
 - Mount Allison University
 - St. Thomas University
+![Alt text](./dai_nguyen.png)
