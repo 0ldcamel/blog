@@ -13,4 +13,4 @@ date: 2024-10-27
 - St. Thomas University
 
   
-![Alt text](./2024/10/27dai_nguyen.png)
+![Alt text](./blog/2024/10/27dai_nguyen.png)
