@@ -12,5 +12,5 @@ date: 2024-10-27
 - Mount Allison University
 - St. Thomas University
 
-  
+<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>  
 ![Alt text](./blog/2024/10/27dai_nguyen.png)
