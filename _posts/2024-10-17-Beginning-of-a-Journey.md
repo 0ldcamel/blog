@@ -20,7 +20,11 @@ Reflecting on his academic journey so far, we couldn’t help but feel proud. He
 
 ## Facing the Challenges
 
-However, he also shared his concerns. The thought of leaving home and adapting to a new environment was daunting. He worried about balancing rigorous coursework with social life and extracurricular activities. We reassured him that these feelings were normal and that finding the right support system would be crucial.
+However, he also shared his concerns. 
+- He still needs to improve his IELTS scores before the application deadlines.
+- He worried that his Diploma would be available in September while application deadlines are latest in Mar.
+
+We reassured him that we are assting him in finding the right support.
 
 ## Next Steps
 
