@@ -12,7 +12,7 @@ Starting the journey to find the perfect university or college for our nephew ha
 
 ## Understanding His Aspirations
 
-We sat down with him one evening, eager to hear about his dreams and goals. He spoke passionately about his interest in engineering, inspired by his love for building and problem-solving. His eyes lit up as he described his ideal college experience: a place where he could dive deep into his studies, participate in hands-on projects, and be part of a vibrant community.
+We sat down with him one evening, eager to hear about his dreams and goals. He spoke passionately about his interest in engineering, inspired by his love for building and problem-solving. His voice fillied with excitement as he described his ideal college experience: a place where he could dive deep into his studies, participate in hands-on projects, and be part of a vibrant community.
 
 ## Celebrating Academic Achievements
 
