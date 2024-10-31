@@ -22,7 +22,7 @@ Reflecting on his academic journey so far, we couldn’t help but feel proud. He
 
 However, he also shared his concerns. 
 - He still needs to improve his IELTS scores before the application deadlines.
-- He worried that his Diploma would be available in September while application deadlines are latest in Mar.
+- He worried that his Diploma would be available in September while application deadlines are latest in March.
 
 We reassured him that we are assting him in finding the right support.
 
