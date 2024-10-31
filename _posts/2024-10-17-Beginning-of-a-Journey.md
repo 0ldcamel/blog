@@ -1,5 +1,5 @@
 ---
-title: "My blog on GitHub"
+title: Beginning of a Journey
 date: 2024-10-16
 author: cau
 tags: pau
