@@ -4,7 +4,7 @@ date: 2024-10-16
 author: cau
 tags: pau
 ---
-![Static Badge](https://img.shields.io/badge/0ld-Camel-blue) ![Static Badge](https://img.shields.io/badge/Camel-brightgreen?style=flat&logo=ocaml&logoColor=black&logoSize=auto&label=0ld&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=https%3A%2F%2F0ldcamel.github.io)
+![Static Badge](https://img.shields.io/badge/0ld-Camel-blue) ![Static Badge](https://img.shields.io/badge/Camel-brightgreen?style=flat&logo=ocaml&logoColor=black&logoSize=auto&label=0ld&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=https%3A%2F%2F0ldcamel.github.io)  
 
 # Beginning of a Journey: Finding the Right School
 
