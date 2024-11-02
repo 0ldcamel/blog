@@ -9,8 +9,5 @@ date: 2024-10-27
 ### Public Universities
 - [University of New Brunswick](https://0ldcamel.github.io/blog/2024/10/26/University-of-New_Brunswick.html) bác Bảo đã review  
 - Université de Moncton: trường này nói tiếng Pháp   
-- Mount Allison University
+- Mount Allison University: 
 - St. Thomas University
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>  
-![Alt text](./blog/2024/10/27dai_nguyen.png)
